@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+
+body{
+    font-family: 'Kumbh Sans', sans-serif;
+    margin: 0 auto;
+    width: 80%
+}
+.headContainer{ 
+ margin-top: 30px;
+ padding: 4px;
+ background-color: cadetblue;
+ border-radius: 20px;
+}
+
+.heading, .subheading{
+    text-align: center;
+    margin: 0
+}
+
+.heading{
+    font-weight: 700;
+}
+
+.subheading{
+    font-weight: 400;
+}
+
+.bodyContainer{
+    padding: 4px;
+    border-radius: 20px;
+    background-color: beige;
+    margin-top: 20px;
+}
+
+.body1{
+    text-align: center;
+}
+
+p span {
+ font-weight: 700;
+}
