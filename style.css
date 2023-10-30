@@ -27,16 +27,15 @@ body{
 }
 
 .bodyContainer{
-    padding: 4px;
+    padding: 8px;
+    padding-left: 20px;
     border-radius: 20px;
     background-color: beige;
     margin-top: 20px;
 }
 
-.body1{
-    text-align: center;
-}
 
 p span {
  font-weight: 700;
+ text-decoration: underline;
 }
