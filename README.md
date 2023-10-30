@@ -1,7 +1,7 @@
 # AZ-C5-HTML
 # HTML Document Structure and Text Formatting
 
-## Objective: The objective of this assignment is to demonstrate your understanding of HTML document structure, the head and body elements, headings, paragraphs, text formatting, and the use of comments in HTML. You will be required to create an HTML file that incorporates these concepts and submit it on GitHub. You will then share the GitHub repository link via Microsoft Teams
+## Objective: The objective of this assignment is to demonstrate your understanding of HTML document structure, the head and body elements, headings, paragraphs, text formatting, and the use of comments in HTML. You will be required to create an HTML file that incorporates these concepts and submit it on GitHub. You will then share the GitHub repository link via Microsoft Teams.
 
 ### Step 1: Set up github repository
 
@@ -19,11 +19,13 @@
 
 ### Task 1: HTML Document Structure
 
-Ensure your HTML document includes the necessary structural elements, such as <!DOCTYPE html>, <html>, <head>, and <body>.
+Ensure your HTML document includes the necessary structural elements, such as 
+`<!DOCTYPE html>,<html>,<head>, and <body>.`
+
 
 ### Task 2: Head Element
 
-1. Inside the head element, include a <title> element with a descriptive title for your webpage.
+1. Inside the head element, include a `<title>` element with a descriptive title for your webpage.
 
 2. Include a favicon and a few metadata for your document.
 
@@ -31,7 +33,7 @@ Ensure your HTML document includes the necessary structural elements, such as <!
 
 Inside the body element, create the main content of your webpage:
 
-1. Use appropriate heading tags (e.g., <h1>, <h2>, <h3>) to structure your content. Create at least two levels of headings.
+1. Use appropriate heading tags (e.g., `<h1>, <h2>, <h3>`) to structure your content. Create at least two levels of headings.
 
 2. Write at least two paragraphs of text in the body of your webpage. Ensure that they are well-structured and informative.
 
