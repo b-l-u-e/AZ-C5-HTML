@@ -41,6 +41,14 @@ Inside the body element, create the main content of your webpage:
 
 4. Include comments in your HTML code to explain the purpose and structure of different sections of your document. Use comments to describe your headings, paragraphs, and other significant elements.
 
+#### Task 4: Create a HTML Table list
+
+1. Replicate the design on the attached file (timetable.gif)
+
+2. Under Project, use an unordered list with square bullets to list four interesting project titles. 
+
+3. Under History, use an ordered list with lowercase alphabetical characters for numbering to list three history topics.
+
 
 ## Step 4: Commit and Push to Github
 
